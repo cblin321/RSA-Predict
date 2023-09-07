@@ -1,0 +1,324 @@
+Unnamed: 0,date,ticker,name,ratio,cik
+0.0,2023-05-26,LIQT,"LiqTech International, Inc.",1 for 8,1307579.0
+1.0,2023-05-26,LABP,"Landos Biopharma, Inc.",1 for 10,1785345.0
+2.0,2023-05-26,ITRG,Integra Resources Corp.,1 for 3,1722387.0
+3.0,2023-05-26,HCTI,"Healthcare Triangle, Inc.",1 for 10,1839285.0
+4.0,2023-05-24,RIDE,Lordstown Motors Corp.,1 for 15,1759546.0
+5.0,2023-05-24,NVFY,"Nova LifeStyle, Inc.",1 for 5,1473334.0
+6.0,2023-05-23,SGTX,"Sigilon Therapeutics, Inc.",1 for 13,1821323.0
+7.0,2023-05-23,SEAC,"SeaChange International, Inc.",1 for 20,1019671.0
+8.0,2023-05-23,RNAZ,"TransCode Therapeutics, Inc.",1 for 20,1829635.0
+9.0,2023-05-22,BHG,"Bright Health Group, Inc.",1 for 80,1671284.0
+10.0,2023-05-22,ADMP,Adamis Pharmaceuticals Corporation,1 for 70,887247.0
+11.0,2023-05-19,BRDS,"Bird Global, Inc.",1 for 25,1861449.0
+12.0,2023-05-18,NISN,"Nisun International Enterprise Development Group Co., Ltd",1 for 10,1603993.0
+13.0,2023-05-18,AULT,"Ault Alliance, Inc.",1 for 300,896493.0
+14.0,2023-05-17,LADX,LadRx Corporation,1 for 100,799698.0
+15.0,2023-05-17,BIOC,"Biocept, Inc.",1 for 30,1044378.0
+16.0,2023-05-16,SDIG,"Stronghold Digital Mining, Inc.",1 for 10,1856028.0
+17.0,2023-05-16,GREE,Greenidge Generation Holdings Inc.,1 for 10,1844971.0
+18.0,2023-05-16,CYCN,"Cyclerion Therapeutics, Inc.",1 for 20,1755237.0
+19.0,2023-05-15,XELA,"Exela Technologies, Inc.",1 for 200,1620179.0
+20.0,2023-05-15,XBIO,"Xenetic Biosciences, Inc.",1 for 10,1534525.0
+21.0,2023-05-15,RETO,"ReTo Eco-Solutions, Inc.",1 for 10,1687277.0
+22.0,2023-05-15,IFBD,"Infobird Co., Ltd",1 for 5,1815566.0
+23.0,2023-05-15,GLMD,Galmed Pharmaceuticals Ltd.,1 for 15,1595353.0
+24.0,2023-05-15,EAST,"Eastside Distilling, Inc.",1 for 20,1534708.0
+25.0,2023-05-15,BNMV,"BitNile Metaverse, Inc.",1 for 30,1437491.0
+26.0,2023-05-15,ALPP,"Alpine 4 Holdings, Inc.",1 for 8,1606698.0
+27.0,2023-05-12,VERO,Venus Concept Inc.,1 for 15,1409269.0
+28.0,2023-05-12,LPCN,Lipocine Inc.,1 for 17,1535955.0
+29.0,2023-05-12,FRLN,Freeline Therapeutics Holdings plc,1 for 15,1810031.0
+30.0,2023-05-12,AWH,Aspira Women's Health Inc.,1 for 15,926617.0
+31.0,2023-05-11,HEPA,"Hepion Pharmaceuticals, Inc.",1 for 20,1583771.0
+32.0,2023-05-11,BBIG,"Vinco Ventures, Inc.",1 for 20,1717556.0
+33.0,2023-05-10,TNXP,Tonix Pharmaceuticals Holding Corp.,1 for 6,1430306.0
+34.0,2023-05-05,GTE,Gran Tierra Energy Inc.,1 for 10,1273441.0
+35.0,2023-05-04,WGS,GeneDx Holdings Corp.,1 for 33,1818331.0
+36.0,2023-05-04,MULN,"Mullen Automotive, Inc.",1 for 25,1499961.0
+37.0,2023-05-04,MDRR,"Medalist Diversified REIT, Inc.",1 for 8,1654595.0
+38.0,2023-05-01,VISL,"Vislink Technologies, Inc.",1 for 20,1565228.0
+39.0,2023-05-01,PSTV,"Plus Therapeutics, Inc.",1 for 15,1095981.0
+40.0,2023-04-28,ZEV,"Lightning eMotors, Inc.",1 for 20,1802749.0
+41.0,2023-04-28,IMPP,Imperial Petroleum Inc.,1 for 15,355356.0
+42.0,2023-04-27,EZFL,EZFill Holdings Inc.,1 for 8,1817004.0
+43.0,2023-04-26,SBET,SharpLink Gaming Ltd.,1 for 10,1025561.0
+44.0,2023-04-26,JXJT,JX Luxventure Limited,1 for 10,1546383.0
+45.0,2023-04-25,YCBD,"cbdMD, Inc.",1 for 45,1644903.0
+46.0,2023-04-25,ML,MoneyLion Inc.,1 for 30,1807846.0
+47.0,2023-04-25,CLXT,"Calyxt, Inc.",1 for 10,1705843.0
+48.0,2023-04-24,SMFL,"Smart for Life, Inc.",1 for 50,1851860.0
+49.0,2023-04-24,POAI,Predictive Oncology Inc.,1 for 20,1446159.0
+50.0,2023-04-24,LGMK,"LogicMark, Inc.",1 for 20,1566826.0
+51.0,2023-04-24,GRI,"GRI Bio, Inc.",1 for 30,1824293.0
+52.0,2023-04-24,BKTI,BK Technologies Corporation,1 for 5,2186.0
+53.0,2023-04-21,OUST,"Ouster, Inc.",1 for 10,1815095.0
+54.0,2023-04-21,OIG,"Orbital Infrastructure Group, Inc.",1 for 40,1108967.0
+55.0,2023-04-21,FRSX,Foresight Autonomous Holdings Ltd.,1 for 6,1691221.0
+56.0,2023-04-19,VERB,"Verb Technology Company, Inc.",1 for 40,1566610.0
+57.0,2023-04-19,ASNS,"Actelis Networks, Inc.",1 for 10,1141284.0
+58.0,2023-04-17,MINM,"Minim, Inc.",1 for 25,1467761.0
+59.0,2023-04-17,MEIP,"MEI Pharma, Inc.",1 for 20,1262104.0
+60.0,2023-04-14,ARVL,Arrival,1 for 50,1835059.0
+61.0,2023-04-13,EJH,E-Home Household Service Holdings Limited,1 for 10,1769768.0
+62.0,2023-04-12,WISH,ContextLogic Inc.,1 for 30,1822250.0
+63.0,2023-04-12,VBIV,VBI Vaccines Inc.,1 for 30,764195.0
+64.0,2023-04-11,GAME,"GameSquare Holdings, Inc.",1 for 4,1714562.0
+65.0,2023-04-11,BLBX,Blackboxstocks Inc.,1 for 4,1567900.0
+66.0,2023-04-11,AGRX,"Agile Therapeutics, Inc.",1 for 50,1261249.0
+67.0,2023-04-05,WTER,The Alkaline Water Company Inc.,1 for 15,1532390.0
+68.0,2023-04-04,OCTO,Eightco Holdings Inc.,1 for 50,1892492.0
+69.0,2023-04-04,MBIO,"Mustang Bio, Inc.",1 for 15,1680048.0
+70.0,2023-04-04,BEST,BEST Inc.,1 for 4,1709505.0
+71.0,2023-04-03,CHNR,"China Natural Resources, Inc.",1 for 5,793628.0
+72.0,2023-03-31,SAFE,Safehold Inc.,1 for 6,1095651.0
+73.0,2023-03-31,MCOM,Micromobility.com Inc.,1 for 50,1788841.0
+74.0,2023-03-31,ENSC,"Ensysce Biosciences, Inc.",1 for 12,1716947.0
+75.0,2023-03-30,BPTS,Biophytis S.A.,1 for 10,1768946.0
+76.0,2023-03-29,NOGN,"Nogin, Inc.",1 for 20,1841800.0
+77.0,2023-03-27,CREX,"Creative Realities, Inc.",1 for 3,1356093.0
+78.0,2023-03-27,BDRX,Biodexa Pharmaceuticals Plc,1 for 4,1643918.0
+79.0,2023-03-27,ALLR,"Allarity Therapeutics, Inc.",1 for 35,1860657.0
+80.0,2023-03-24,FRGT,"Freight Technologies, Inc.",1 for 10,1687542.0
+81.0,2023-03-24,CUEN,Cuentas Inc.,1 for 13,1424657.0
+82.0,2023-03-23,RDHL,RedHill Biopharma Ltd.,1 for 40,1553846.0
+83.0,2023-03-23,PTIX,"Protagenic Therapeutics, Inc.",1 for 4,1022899.0
+84.0,2023-03-23,IDAI,T Stamp Inc.,1 for 5,1718939.0
+85.0,2023-03-22,VIA,"Via Renewables, Inc.",1 for 5,1606268.0
+86.0,2023-03-22,LKCO,Luokung Technology Corp.,1 for 30,1487839.0
+87.0,2023-03-22,BAOS,Baosheng Media Group Holdings Limited,1 for 6,1811216.0
+88.0,2023-03-21,NB,NioCorp Developments Ltd.,1 for 10,1512228.0
+89.0,2023-03-20,CALC,"CalciMedica, Inc.",1 for 14,1534133.0
+90.0,2023-03-15,RAASY,Cloopen Group Holding Limited,1 for 3,1841437.0
+91.0,2023-03-14,DRMA,"Dermata Therapeutics, Inc.",1 for 16,1853816.0
+92.0,2023-03-13,KRBP,"Kiromic BioPharma, Inc.",1 for 30,1792581.0
+93.0,2023-03-13,ASLN,ASLAN Pharmaceuticals Limited,1 for 5,1722926.0
+94.0,2023-03-10,ORTX,Orchard Therapeutics plc,1 for 10,1748907.0
+95.0,2023-03-09,KLR,"Kaleyra, Inc.",1 for 4,1719489.0
+96.0,2023-03-09,AKAN,Akanda Corp.,1 for 10,1888014.0
+97.0,2023-03-08,VEON,VEON Ltd.,1 for 25,1468091.0
+98.0,2023-03-08,SFT,"Shift Technologies, Inc.",1 for 10,1762322.0
+99.0,2023-03-08,CARM,"Carisma Therapeutics, Inc.",1 for 20,1485003.0
+100.0,2023-03-06,IONM,Assure Holdings Corp.,1 for 20,1798270.0
+101.0,2023-03-06,HCDI,"Harbor Custom Development, Inc.",1 for 20,1784567.0
+102.0,2023-03-06,CPHI,"China Pharma Holdings, Inc.",1 for 10,1106644.0
+103.0,2023-03-01,RKDA,"Arcadia Biosciences, Inc.",1 for 40,1469443.0
+104.0,2023-02-24,WINT,"Windtree Therapeutics, Inc.",1 for 50,946486.0
+105.0,2023-02-24,ELVN,"Enliven Therapeutics, Inc.",1 for 4,1672619.0
+106.0,2023-02-23,RELI,"Reliance Global Group, Inc.",1 for 15,1812727.0
+107.0,2023-02-22,GMBL,"Esports Entertainment Group, Inc.",1 for 100,1451448.0
+108.0,2023-02-22,AMST,Amesite Inc.,1 for 12,1807166.0
+109.0,2023-02-16,SHIP,Seanergy Maritime Holdings Corp.,1 for 10,1448397.0
+110.0,2023-02-15,ECOR,"electroCore, Inc.",1 for 15,1560258.0
+111.0,2023-02-15,CFRX,ContraFect Corporation,1 for 80,1478069.0
+112.0,2023-02-15,ATNXQ,"Athenex, Inc.",1 for 20,1300699.0
+113.0,2023-02-14,CRBP,"Corbus Pharmaceuticals Holdings, Inc.",1 for 30,1595097.0
+114.0,2023-02-14,BFRG,"Bullfrog AI Holdings, Inc.",1 for 7,1829247.0
+115.0,2023-02-13,VYNE,VYNE Therapeutics Inc.,1 for 18,1566044.0
+116.0,2023-02-13,GNUS,"Genius Brands International, Inc.",1 for 10,1355848.0
+117.0,2023-02-13,APRE,"Aprea Therapeutics, Inc.",1 for 20,1781983.0
+118.0,2023-02-10,SNGX,"Soligenix, Inc.",1 for 15,812796.0
+119.0,2023-02-10,INBS,Intelligent Bio Solutions Inc.,1 for 20,1725430.0
+120.0,2023-02-10,GFAI,"Guardforce AI Co., Limited",1 for 40,1804469.0
+121.0,2023-02-10,COMS,COMSovereign Holding Corp.,1 for 100,1178727.0
+122.0,2023-02-09,NAOV,"NanoVibronix, Inc.",1 for 20,1326706.0
+123.0,2023-02-09,MIGI,"Mawson Infrastructure Group, Inc.",1 for 6,1218683.0
+124.0,2023-02-09,CZOO,Cazoo Group Ltd,1 for 20,1859639.0
+125.0,2023-02-08,DGLY,"Digital Ally, Inc.",1 for 20,1342958.0
+126.0,2023-02-07,LCINQ,"Lannett Company, Inc.",1 for 4,57725.0
+127.0,2023-02-02,DYNT,Dynatronics Corporation,1 for 5,720875.0
+128.0,2023-02-01,REVB,"Revelation Biosciences, Inc.",1 for 35,1810560.0
+129.0,2023-02-01,LMNL,Liminal BioSciences Inc.,1 for 10,1351172.0
+130.0,2023-02-01,FTFT,Future FinTech Group Inc.,1 for 5,1066923.0
+131.0,2023-01-27,WISA,"WiSA Technologies, Inc.",1 for 100,1682149.0
+132.0,2023-01-27,REED,"Reed's, Inc.",1 for 50,1140215.0
+133.0,2023-01-27,MRKR,"Marker Therapeutics, Inc.",1 for 10,1094038.0
+134.0,2023-01-26,SWVL,Swvl Holdings Corp.,1 for 25,1875609.0
+135.0,2023-01-26,PHIO,Phio Pharmaceuticals Corp.,1 for 12,1533040.0
+136.0,2023-01-26,EDBL,Edible Garden AG Incorporated,1 for 30,1809750.0
+137.0,2023-01-25,CETX,"Cemtrex, Inc.",1 for 35,1435064.0
+138.0,2023-01-23,SIEN,"Sientra, Inc.",1 for 10,1551693.0
+139.0,2023-01-23,OGEN,"Oragenics, Inc.",1 for 60,1174940.0
+140.0,2023-01-23,OCSL,Oaktree Specialty Lending Corporation,1 for 3,1414932.0
+141.0,2023-01-23,JAGX,"Jaguar Health, Inc.",1 for 75,1585608.0
+142.0,2023-01-23,APM,Aptorum Group Limited,1 for 10,1734005.0
+143.0,2023-01-20,FSEA,"First Seacoast Bancorp, Inc.",1 for 1,1943802.0
+144.0,2023-01-20,CNET,ZW Data Action Technologies Inc.,1 for 5,1376321.0
+145.0,2023-01-19,CETY,"Clean Energy Technologies, Inc.",1 for 40,1329606.0
+146.0,2023-01-18,JFU,9F Inc.,1 for 20,1619544.0
+147.0,2023-01-18,FWBI,"First Wave BioPharma, Inc.",1 for 7,1604191.0
+148.0,2023-01-18,EAR,"Eargo, Inc.",1 for 20,1719395.0
+149.0,2023-01-18,ACGN,"Aceragen, Inc.",1 for 17,861838.0
+150.0,2023-01-13,PBLA,"Panbela Therapeutics, Inc.",1 for 40,1029125.0
+151.0,2023-01-12,NYC,American Strategic Investment Co.,1 for 8,1595527.0
+152.0,2023-01-09,GHSI,"Guardion Health Sciences, Inc.",1 for 50,1642375.0
+153.0,2023-01-09,CANF,Can-Fite BioPharma Ltd.,1 for 10,1536196.0
+154.0,2023-01-09,ATHE,Alterity Therapeutics Limited,1 for 10,1136797.0
+155.0,2023-01-06,NXTP,"NextPlay Technologies, Inc.",1 for 20,1372183.0
+156.0,2023-01-06,DAVE,Dave Inc.,1 for 32,1841408.0
+157.0,2023-01-06,AYTU,"Aytu BioPharma, Inc.",1 for 20,1385818.0
+158.0,2023-01-05,TENX,"Tenax Therapeutics, Inc.",1 for 20,34956.0
+159.0,2023-01-05,OPGN,"OpGen, Inc.",1 for 20,1293818.0
+160.0,2023-01-05,IPDN,"Professional Diversity Network, Inc.",1 for 2,1546296.0
+161.0,2023-01-05,ALBT,Avalon GloboCare Corp.,1 for 10,1630212.0
+162.0,2023-01-04,OBLG,"Oblong, Inc.",1 for 15,746210.0
+163.0,2023-01-03,HALL,"Hallmark Financial Services, Inc.",1 for 10,819913.0
+164.0,2023-01-03,BIOR,"Biora Therapeutics, Inc.",1 for 25,1580063.0
+165.0,2022-12-30,TRNR,Interactive Strength Inc.,1 for 150,1785056.0
+166.0,2022-12-30,IRON,Disc Medicine Opco Inc,1 for 10,1816736.0
+167.0,2022-12-30,CHRA,"Charah Solutions, Inc.",1 for 10,1730346.0
+168.0,2022-12-29,NUZE,"NuZee, Inc.",1 for 35,1527613.0
+169.0,2022-12-28,AEI,Alset Inc.,1 for 20,1750106.0
+170.0,2022-12-27,HOFV,Hall of Fame Resort & Entertainment Company,1 for 22,1708176.0
+171.0,2022-12-23,RSLS,ReShape Lifesciences Inc.,1 for 50,1427570.0
+172.0,2022-12-23,KALRQ,Kalera Public Limited Company,1 for 100,1909152.0
+173.0,2022-12-23,BTCM,BIT Mining Limited,1 for 10,1517496.0
+174.0,2022-12-22,TISI,"Team, Inc.",1 for 10,318833.0
+175.0,2022-12-22,THMO,"ThermoGenesis Holdings, Inc.",1 for 45,811212.0
+176.0,2022-12-22,OP,OceanPal Inc.,1 for 10,1869467.0
+177.0,2022-12-22,MARK,"Remark Holdings, Inc.",1 for 10,1368365.0
+178.0,2022-12-21,HTGM,"HTG Molecular Diagnostics, Inc.",1 for 12,1169987.0
+179.0,2022-12-21,CEI,"Camber Energy, Inc.",1 for 50,1309082.0
+180.0,2022-12-20,SINT,"Sintx Technologies, Inc.",1 for 100,1269026.0
+181.0,2022-12-20,MDWD,MediWound Ltd.,1 for 7,1593984.0
+182.0,2022-12-20,ATLX,Atlas Lithium Corporation,1 for 752,1540684.0
+183.0,2022-12-19,KA,"Kineta, Inc.",1 for 7,1445283.0
+184.0,2022-12-19,HEXO,HEXO Corp.,1 for 14,1690947.0
+185.0,2022-12-19,ATNF,180 Life Sciences Corp.,1 for 20,1690080.0
+186.0,2022-12-16,NHIQ,"NantHealth, Inc.",1 for 15,1566469.0
+187.0,2022-12-16,COSM,Cosmos Health Inc.,1 for 25,1474167.0
+188.0,2022-12-16,BBLN,Babylon Holdings Limited,1 for 25,1866390.0
+189.0,2022-12-15,COE,51Talk Online Education Group,1 for 4,1659494.0
+190.0,2022-12-15,BTB,Bit Brother Limited,1 for 15,1543268.0
+191.0,2022-12-13,PSFE,Paysafe Limited,1 for 12,1833835.0
+192.0,2023-06-01,VSTM,"Verastem, Inc.",1 for 12,
+193.0,2023-06-01,TRKA,"Troika Media Group, Inc.",1 for 25,
+194.0,2023-06-01,PBLA,"Panbela Therapeutics, Inc.",1 for 30,
+195.0,2023-06-01,CBUS,"Cibus, Inc.",1 for 5,
+196.0,2023-05-31,AUVI,"Applied UV, Inc.",1 for 5,
+197.0,2023-05-30,BTOG,Bit Origin Ltd,1 for 30,
+198.0,2023-06-06,GROV,"Grove Collaborative Holdings, Inc.",1 for 5,
+199.0,2023-06-06,APTO,Aptose Biosciences Inc.,1 for 15,
+200.0,2023-06-05,LIXT,"Lixte Biotechnology Holdings, Inc.",1 for 10,
+201.0,2023-06-05,ACOR,"Acorda Therapeutics, Inc.",1 for 20,
+202.0,2023-06-14,SNMP,Evolve Transition Infrastructure LP,1 for 30,
+203.0,2023-06-09,WETG,"WeTrade Group, Inc.",1 for 185,
+204.0,2023-06-09,PBTS,"Powerbridge Technologies Co., Ltd.",1 for 30,
+205.0,2023-06-09,FLGC,Flora Growth Corp.,1 for 20,
+206.0,2023-06-09,CNVS,Cineverse Corp.,1 for 20,
+207.0,2023-06-09,AUMN,Golden Minerals Company,1 for 25,
+208.0,2023-06-08,UP,Wheels Up Experience Inc.,1 for 10,
+209.0,2023-06-08,OP,OceanPal Inc.,1 for 20,
+210.0,2023-06-08,APRN,"Blue Apron Holdings, Inc.",1 for 12,
+211.0,2023-06-07,VTGN,"Vistagen Therapeutics, Inc.",1 for 30,
+212.0,2023-06-07,GNLN,"Greenlane Holdings, Inc.",1 for 10,
+213.0,2023-06-07,BBLG,Bone Biologics Corporation,1 for 30,
+214.0,2023-06-06,WPRT,Westport Fuel Systems Inc.,1 for 10,
+215.0,2023-08-14,MTEM,"Molecular Templates, Inc.",1 for 15,
+216.0,2023-08-14,MOGO,Mogo Inc.,1 for 3,
+217.0,2023-08-11,MULN,"Mullen Automotive, Inc.",1 for 9,
+218.0,2023-08-10,LTRY,Lottery.com Inc.,1 for 20,
+219.0,2023-08-09,SYTA,Siyata Mobile Inc.,1 for 100,
+220.0,2023-08-07,YVR,Liquid Media Group Ltd.,1 for 4,
+221.0,2023-08-07,MOBQ,"Mobiquity Technologies, Inc.",1 for 15,
+222.0,2023-08-07,BNGO,"Bionano Genomics, Inc.",1 for 10,
+223.0,2023-08-07,ADIL,"Adial Pharmaceuticals, Inc.",1 for 25,
+224.0,2023-08-04,OTMO,Otonomo Technologies Ltd.,1 for 15,
+225.0,2023-08-04,NCMI,"National CineMedia, Inc.",1 for 10,
+226.0,2023-08-04,DUO,Fangdd Network Group Ltd.,1 for 15,
+227.0,2023-08-02,SMFL,"Smart for Life, Inc.",1 for 3,
+228.0,2023-08-01,TAOP,Taoping Inc.,1 for 10,
+229.0,2023-08-01,MDVL,"MedAvail Holdings, Inc.",1 for 50,
+230.0,2023-08-01,BRSH,Bruush Oral Care Inc.,1 for 25,
+231.0,2023-07-31,THTX,Theratechnologies Inc.,1 for 4,
+232.0,2023-07-28,UPC,Universe Pharmaceuticals INC,1 for 6,
+233.0,2023-07-28,OTRK,"Ontrak, Inc.",1 for 6,
+234.0,2023-07-28,KPLT,"Katapult Holdings, Inc.",1 for 25,
+235.0,2023-07-28,INVO,"INVO Bioscience, Inc.",1 for 20,
+236.0,2023-07-28,BIOL,"BIOLASE, Inc.",1 for 100,
+237.0,2023-07-27,VIEW,"View, Inc.",1 for 60,
+238.0,2023-07-26,BNTC,Benitec Biopharma Inc.,1 for 17,
+239.0,2023-07-25,OCX,OncoCyte Corporation,1 for 20,
+240.0,2023-07-25,ABVC,"ABVC BioPharma, Inc.",1 for 10,
+241.0,2023-07-24,BJDX,"Bluejay Diagnostics, Inc.",1 for 20,
+242.0,2023-07-20,BGLC,BioNexus Gene Lab Corp.,1 for 10,
+243.0,2023-07-18,QNRX,"Quoin Pharmaceuticals, Ltd.",1 for 12,
+244.0,2023-07-14,SNAX,"Stryve Foods, Inc.",1 for 15,
+245.0,2023-07-14,DRUG,Bright Minds Biosciences Inc.,1 for 5,
+246.0,2023-07-13,LGHL,Lion Group Holding Ltd.,1 for 50,
+247.0,2023-07-12,AXDX,"Accelerate Diagnostics, Inc.",1 for 10,
+248.0,2023-07-10,OWLT,"Owlet, Inc.",1 for 14,
+249.0,2023-07-10,JZXN,"Jiuzi Holdings, Inc.",1 for 18,
+250.0,2023-07-10,AUID,authID Inc.,1 for 8,
+251.0,2023-07-10,ACST,Acasti Pharma Inc.,1 for 6,
+252.0,2023-07-07,OGI,Organigram Holdings Inc.,1 for 4,
+253.0,2023-07-06,TLIS,Talis Biomedical Corporation,1 for 15,
+254.0,2023-07-06,STRC,Sarcos Technology and Robotics Corporation,1 for 6,
+255.0,2023-07-05,XXII,"22nd Century Group, Inc.",1 for 15,
+256.0,2023-07-05,WKEY,WISeKey International Holding AG,1 for 3,
+257.0,2023-07-05,BFRI,Biofrontera Inc.,1 for 20,
+258.0,2023-07-05,BDRX,Biodexa Pharmaceuticals Plc,1 for 80,
+259.0,2023-07-05,AGFY,Agrify Corporation,1 for 20,
+260.0,2023-07-03,PRFX,PainReform Ltd.,1 for 10,
+261.0,2023-07-03,BTCY,"Biotricity, Inc.",1 for 6,
+262.0,2023-06-30,IKT,"Inhibikase Therapeutics, Inc.",1 for 6,
+263.0,2023-06-30,EVLO,"Evelo Biosciences, Inc.",1 for 20,
+264.0,2023-06-30,DOMA,Doma Holdings Inc.,1 for 25,
+265.0,2023-06-30,ATXG,Addentax Group Corp.,1 for 10,
+266.0,2023-06-30,AHI,Advanced Health Intelligence Ltd.,1 for 4,
+267.0,2023-06-29,MRAI,"Marpai, Inc.",1 for 4,
+268.0,2023-06-29,ANY,Sphere 3D Corp.,1 for 7,
+269.0,2023-06-29,ALLR,"Allarity Therapeutics, Inc.",1 for 40,
+270.0,2023-06-27,AREB,"American Rebel Holdings, Inc.",1 for 25,
+271.0,2023-06-26,SKLZ,Skillz Inc.,1 for 20,
+272.0,2023-06-23,TRI,Thomson Reuters Corporation,1 for 1,
+273.0,2023-06-23,SHPW,"Shapeways Holdings, Inc.",1 for 8,
+274.0,2023-06-22,STCN,"Steel Connect, Inc.",1 for 9,
+275.0,2023-06-22,MEDS,"TRxADE HEALTH, Inc.",1 for 15,
+276.0,2023-06-21,LPTX,"Leap Therapeutics, Inc.",1 for 10,
+277.0,2023-06-21,BSFC,Blue Star Foods Corp.,1 for 20,
+278.0,2023-06-20,YJ,Yunji Inc.,1 for 10,
+279.0,2023-06-20,EFOI,"Energy Focus, Inc.",1 for 7,
+280.0,2023-06-16,IZEA,"IZEA Worldwide, Inc.",1 for 4,
+281.0,2023-06-15,NBSE,"NeuBase Therapeutics, Inc.",1 for 20,
+282.0,2023-06-15,LOCL,Local Bounti Corporation,1 for 13,
+283.0,2023-06-15,BOXL,Boxlight Corporation,1 for 8,
+284.0,2023-06-15,ATIP,"ATI Physical Therapy, Inc.",1 for 50,
+285.0,2023-06-13,OPAD,Offerpad Solutions Inc.,1 for 15,
+286.0,2023-06-12,FNCH,"Finch Therapeutics Group, Inc.",1 for 30,
+287.0,2023-06-12,CELZ,"Creative Medical Technology Holdings, Inc.",1 for 10,
+288.0,2023-09-18,PHXM,PHAXIAM Therapeutics S.A.,1 for 10,
+289.0,2023-09-12,AMPE,"Ampio Pharmaceuticals, Inc.",1 for 20,
+290.0,2023-09-05,WE,WeWork Inc.,1 for 40,
+291.0,2023-09-01,HLGN,"Heliogen, Inc.",1 for 35,
+292.0,2023-09-01,SONN,"Sonnet BioTherapeutics Holdings, Inc.",1 for 22,
+293.0,2023-08-31,SPIR,"Spire Global, Inc.",1 for 8,
+294.0,2023-08-31,SQL,SeqLL Inc.,1 for 40,
+295.0,2023-08-30,EXPR,"Express, Inc.",1 for 20,
+296.0,2023-08-29,DMS,"Digital Media Solutions, Inc.",1 for 15,
+297.0,2023-08-28,FFIE,Faraday Future Intelligent Electric Inc.,1 for 80,
+298.0,2023-08-25,IDEX,"Ideanomics, Inc.",1 for 125,
+299.0,2023-08-25,CLVR,Clever Leaves Holdings Inc.,1 for 30,
+300.0,2023-08-25,RCRT,"Recruiter.com Group, Inc.",1 for 15,
+301.0,2023-08-24,AMC,"AMC Entertainment Holdings, Inc.",1 for 10,
+302.0,2023-08-24,METX,BTC Digital Ltd.,1 for 20,
+303.0,2023-08-23,SUNL,Sunlight Financial Holdings Inc.,1 for 20,
+304.0,2023-08-23,MNTS,Momentus Inc.,1 for 50,
+305.0,2023-08-23,TIVC,"Tivic Health Systems, Inc.",1 for 100,
+306.0,2023-08-22,DBGI,"Digital Brands Group, Inc.",1 for 25,
+307.0,2023-08-21,SMX,SMX (Security Matters) Public Limited Company,1 for 22,
+308.0,2023-08-18,VAPO,"Vapotherm, Inc.",1 for 8,
+309.0,2023-08-18,WHLR,"Wheeler Real Estate Investment Trust, Inc.",1 for 10,
+310.0,2023-08-18,ADTX,"Aditxt, Inc.",1 for 40,
+311.0,2023-08-17,AKTX,"Akari Therapeutics, Plc",1 for 20,
+312.0,2023-08-17,HSDT,"Helius Medical Technologies, Inc.",1 for 50,
+313.0,2023-08-16,WATT,Energous Corporation,1 for 20,
+314.0,2023-08-15,CRKN,Crown ElectroKinetics Corp.,1 for 60,
+315.0,2023-07-25,DXF,Dunxin Financial Holdings Limited,1 for 10,
+316.0,2023-07-18,SNMP,Evolve Transition Infrastructure LP,1 for 30,
+317.0,2023-07-15,SNAX,"Stryve Foods, Inc.",1 for 15,
+318.0,2023-07-13,DRUG,Bright Minds Biosciences Inc.,1 for 5,
+319.0,2023-07-05,OGI,Organigram Holdings Inc.,1 for 4,
+320.0,2023-06-12,OPAD,Offerpad Solutions Inc.,1 for 15,
+321.0,2023-06-05,GROV,"Grove Collaborative Holdings, Inc.",1 for 5,
+322.0,2023-06-02,ELTX,"Elicio Therapeutics, Inc.",1 for 10,

@@ -1,0 +1,7 @@
+config.ini
+__pycache__
+complete_data3.csv
+*.ipynb
+temp.csv
+*.js
+geckodriver.log

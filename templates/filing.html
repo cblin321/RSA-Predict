@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ticker}} Filing</title>
+    <link rel="stylesheet" href="{{url_for("static", filename="styles.css")}}">
+    <link rel="stylesheet" href="{{url_for("static", filename="filing.css")}}">
+</head>
+<body>
+    <h1 class="headline">{{ticker}} on {{date}}</h1>
+    <p class="filing">{{content}}</p>
+</body>
+</html>

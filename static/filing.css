@@ -1,0 +1,14 @@
+body {
+    font-size: 1.125rem;
+    line-height: 1.6;
+}
+
+html {
+    width: min(100%, 100vh - 10rem);
+    margin-inline: auto;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
